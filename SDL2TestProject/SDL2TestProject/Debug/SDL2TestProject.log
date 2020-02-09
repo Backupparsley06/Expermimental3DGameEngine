@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\officielproject\expermimental3dgameengine\sdl2testproject\sdl2testproject\matricepoint.h(41): warning C4091: 'static ' : ignoré à gauche de 'MatriceHelper' quand aucune variable n'est déclarée
+d:\officielproject\expermimental3dgameengine\sdl2testproject\sdl2testproject\source.cpp(51): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  SDL2TestProject.vcxproj -> D:\OfficielProject\Expermimental3DGameEngine\SDL2TestProject\Debug\SDL2TestProject.exe
